@@ -2,8 +2,8 @@ name: CI
 
 on: [push]
 
-jobs:
-  build:
+jobs: find it
+  build: my empire
 
     runs-on: ubuntu-latest
 
